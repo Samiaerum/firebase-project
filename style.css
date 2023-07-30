@@ -1,0 +1,47 @@
+.box{
+      align-items: center;
+      background: white;
+
+
+}
+
+.box2{
+    align-items: center;
+padding-left: 579px;
+padding-top: 80px;
+}
+.box3{
+    padding-left: 579px;
+    padding-top: 40px;
+}
+.box4{
+    padding-left: 640px;
+}
+
+.green-button {
+    display: inline-block;
+    padding: 18px 35px;
+    background-color: #4CAF50; /* Green color */
+    color: #fff; /* Text color */
+    font-size: 35px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: gray;
+       
+       box-shadow: 0 2px 12px 3px rgba(0, 0, 0, 0.6), 0 0 0 1px #ccc; 
+    }
+
+
+    .green-button:hover {
+      background-color: #45a049; 
+    
+  }
+
+  .box5{
+    padding-left: 620px;
+    padding-top: 178px; 
+  }
+
